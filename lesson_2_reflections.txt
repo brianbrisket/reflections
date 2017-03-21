@@ -12,4 +12,10 @@ committed from the working directory.  The value is that you can see the files
 to be committed together and get a look to ensure that they satisfy a single 
 logical change prior to being committed.
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+-You can files in the staging area until you have completed the updates to 
+all files pertaining to the logical change, then commit all modified files.
+
 
