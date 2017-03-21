@@ -24,4 +24,8 @@ history organized?  How would branches help?
 -Branches are great to maintain changes and selectively choose what to merge 
 and what to leave as a separate entity.
 
+How do the diagrams help you visualize the branch structure?
+
+-The diagrams are helpful as they essentially do the visualization for you.
+
 
