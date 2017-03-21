@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+
+-This method allowed me to immediately see any changes made to the file so 
+that I can see which of those changes may have caused the program to produce 
+unexpected results.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long run?
+
+-If I ever wanted to undo an entire feature or restart from a historical point, 
+having access with increase efficiency by reducing the time to restore older 
+source code.
+
+What do you think are the pros and cons of manually choosing when to create 
+a commit, like you do in Git, vs having versions automatically saved, like 
+Google docs does?
+
+-Pros: you can choose to group changes, you can make commits to every logical 
+change
+-Cons: you may not remember to commit as often as you should or automatic 
+saves may be too often.  Restoring commits won't make sense and won't be 
+compilable.
+
+Why do you think some version control systems, like Git, allow saving mutiple 
+files in one commit, while others, like Google Docs, treat each file 
+separately?
+
+-Multiple files: to allow the option to save a feature and dependencies in 
+a single commit - this allows for any logical change that affects multiple 
+files to be updated in each commit.
+-Separeate files: not really good for coding since the above tends to happen 
+and it takes more time to find the right file and commit where the related 
+changes were made to other files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+-I can see the commit history and the changes made from commit to commit.
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+-I don't have to worry about breaking anything, since vc makes it easy to 
+revert to prior commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+-I want to use it for all projects.
