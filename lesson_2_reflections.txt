@@ -28,4 +28,10 @@ How do the diagrams help you visualize the branch structure?
 
 -The diagrams are helpful as they essentially do the visualization for you.
 
+What is the result of merging two branches together?  Why do we represent it 
+in the diagram the way we do?
+
+-The code is integrated and the commits are interweaved.  We represent it in 
+the diagram the way we do so that it is more intuitive.
+
 
