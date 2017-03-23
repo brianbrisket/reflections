@@ -34,4 +34,12 @@ in the diagram the way we do?
 -The code is integrated and the commits are interweaved.  We represent it in 
 the diagram the way we do so that it is more intuitive.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+
+-Git will only automatically merge if it can be inferred from context: 
+meaning there are no merge conflicts.  This is good because it saves time 
+but potentially bad if something is added that might not be intended just 
+because it doesn't conflict with the changes in the other branch being merged.
+
 
