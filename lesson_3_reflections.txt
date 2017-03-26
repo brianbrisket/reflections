@@ -28,3 +28,15 @@ stored locally?
 -The benefit is to make updates without having to be connected to the internet 
 and to see if any updates have been pushed to the remote that you may not be 
 aware of.
+
+How would you collaborate without using Git or GitHub?  What would be easier, 
+and what would be harder?
+
+-Every time a file has been added or modified, I would updated the master file 
+and keep a copy of the modified file and save as the name and date of last 
+update to that file.  This would be much harder to keep track of.  The changes 
+that are made may have to be manually found or found using whatever editor 
+I am using to view and edit the file.  It would be harder to keep track of 
+changes without git log.  Generally, the process would be less organized.
+
+
