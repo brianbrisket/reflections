@@ -22,4 +22,9 @@ and to isolate all changes in case you want to restore the original or it can
 be used when multiple collaborators are working on features to the same 
 repository.
 
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
 
+-The benefit is to make updates without having to be connected to the internet 
+and to see if any updates have been pushed to the remote that you may not be 
+aware of.
