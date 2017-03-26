@@ -10,4 +10,16 @@ automatically stay up-to-date with your remote repository?
 -You want to manually control the updates to your remote since you may not 
 always have your program ready for the public with each commit.
 
+Describe the differences between forks, clones, and branches.  When would you 
+use one instead of another?
+
+-Forks: only from github to github.  Use when you want to make changes to 
+someone else's repository and keep for your own.
+-Clones: full repository copies, can be made local to local or github to local. 
+Can be used to make changes to a repository on a local machine.
+-Branches: only on a single repository.  Used to make a change to a repository, 
+and to isolate all changes in case you want to restore the original or it can 
+be used when multiple collaborators are working on features to the same 
+repository.
+
 
