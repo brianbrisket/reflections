@@ -39,4 +39,15 @@ that are made may have to be manually found or found using whatever editor
 I am using to view and edit the file.  It would be harder to keep track of 
 changes without git log.  Generally, the process would be less organized.
 
+When would you want to make changes in a separate branch rather than directly 
+in master?  What benefits does each approach have?
+
+-It would probably be best to make changes to a new branch every time you add 
+a new feature or want to try anything new in general.  Merges to the master 
+are so easily done that it wouldn't make sense not to; especially in 
+collaboration.  This way chanages can be easily distinguished and are pre-
+labeled.
+-Changes made directly to the master take away the possibility of local merge 
+conflicts, which makes things a bit simpler.
+
 
